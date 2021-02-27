@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "title": "Men Casual Shoe",
+      "price": "€199.99",
+      "image": "./images/pic1.png",
+      "category": "featured"
+    },
+    {
+      "title": "Men Casual Shoe",
+      "price": "€120.99",
+      "image": "./images/pic2.png",
+      "category": "trend"
+    },
+    {
+      "title": "Men Casual Shoe",
+      "price": "€154.99",
+      "image": "./images/pic3.png",
+      "category": "featured"
+    },
+    {
+      "title": "Men Casual Shoe",
+      "price": "€200.00",
+      "image": "./images/pic4.png",
+      "category": "trend"
+    },
+    {
+      "title": "Men Casual Shoe",
+      "price": "€204.99",
+      "image": "./images/pic5.png",
+      "category": "featured"
+    },
+    {
+      "title": "Men Casual Shoe",
+      "price": "€149.99",
+      "image": "./images/pic6.png",
+      "category": "recent"
+    },
+    {
+      "title": "Men Casual Shoe",
+      "price": "€240.00",
+      "image": "./images/pic8.png",
+      "category": "trend"
+    },
+    {
+      "title": "Men Casual Shoe",
+      "price": "€167.00",
+      "image": "./images/pic7.png",
+      "category": "featured"
+    },
+    {
+      "title": "Men Casual Shoe",
+      "price": "€199.99",
+      "image": "./images/pic8.png",
+      "category": "recent"
+    },
+    {
+      "title": "Men Casual Shoe",
+      "price": "€149.99",
+      "image": "./images/pic1.png",
+      "category": "trend"
+    },
+    {
+      "title": "Men Casual Shoe",
+      "price": "€399.99",
+      "image": "./images/pic9.png",
+      "category": "special"
+    },
+    {
+      "title": "Men Casual Shoe",
+      "price": "€399.99",
+      "image": "./images/pic10.png",
+      "category": "special"
+    },
+    {
+      "title": "Men Casual Shoe",
+      "price": "€99.99",
+      "image": "./images/pic11.png",
+      "category": "special"
+    },
+    {
+      "title": "Men Casual Shoe",
+      "price": "€199.99",
+      "image": "./images/pic12.png",
+      "category": "recent"
+    },
+    {
+      "title": "Men Casual Shoe",
+      "price": "€129.99",
+      "image": "./images/pic7.png",
+      "category": "special"
+    },
+    {
+      "title": "Men Casual Shoe",
+      "price": "€200.00",
+      "image": "./images/pic13.png",
+      "category": "latest"
+    },
+    {
+      "title": "Men Casual Shoe",
+      "price": "€400.00",
+      "image": "./images/pic14.png",
+      "category": "recent"
+    },
+    {
+      "title": "Men Casual Shoe",
+      "price": "€250.00",
+      "image": "./images/pic8.png",
+      "category": "latest"
+    },
+    {
+      "title": "Men Casual Shoe",
+      "price": "€199.99",
+      "image": "./images/pic15.png",
+      "category": "latest"
+    },
+    {
+      "title": "Men Casual Shoe",
+      "price": "€499.99",
+      "image": "./images/pic1.png",
+      "category": "latest"
+    }
+  ]
+}
